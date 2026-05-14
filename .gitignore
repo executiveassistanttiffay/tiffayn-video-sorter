@@ -1,0 +1,36 @@
+# secrets
+.env
+*.token
+**/credentials.json
+**/client_secret*.json
+
+# state / cache (per-run, not for the repo)
+state/
+**/_state/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# local outputs / media (raw clips and generated catalogs are private)
+*.csv
+!sample-clip-catalog.csv
+*.jpg
+*.jpeg
+*.png
+!docs/**/*.png
+*.mp4
+*.mov
+*.mxf
+*.m4v
+*.mkv
+clip-catalog.csv
+silent-clips-vision.json
+parsed_clips.json
+clips_with_speech.txt

@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "slug": "e-commerce",
+      "description": "Selling products, apps, services, and monetization strategies for online businesses",
+      "example_keywords": ["selling apps", "app monetization", "product launch", "$400 million"]
+    },
+    {
+      "slug": "ai-tools",
+      "description": "AI-powered tools, automation, and applications for content creation and productivity",
+      "example_keywords": ["AI visualization", "AI editing", "AI-generated content", "automation"]
+    },
+    {
+      "slug": "business-automation",
+      "description": "Workflows, systems, and processes to automate business operations and reduce manual work",
+      "example_keywords": ["shared workflows", "automation systems", "business processes", "efficiency"]
+    },
+    {
+      "slug": "video-organization",
+      "description": "Tools and workflows for organizing, sorting, and managing video clips and media libraries",
+      "example_keywords": ["clip organization", "video sorting", "media management", "B-roll organization"]
+    },
+    {
+      "slug": "content-creation-tools",
+      "description": "Software and platforms designed to help creators manage content production and collaboration",
+      "example_keywords": ["content management", "creator tools", "B-roll sharing", "editor collaboration"]
+    },
+    {
+      "slug": "personal-development",
+      "description": "Goal-setting, manifestation, visualization, and personal growth strategies",
+      "example_keywords": ["manifestation", "visualization", "goal-setting", "personal goals"]
+    }
+  ]
+}
